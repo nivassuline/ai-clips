@@ -1,0 +1,4 @@
+file 'C:\Users\nivos\Desktop\coding projects\ai-clips\myenv\lib\site-packages\clipsai\media\c636502796ae4c0687023c4971c8b51b_segment_0.mp4'
+file 'C:\Users\nivos\Desktop\coding projects\ai-clips\myenv\lib\site-packages\clipsai\media\5c9c117fd7e740a4b09aec830ce09f67_segment_1.mp4'
+file 'C:\Users\nivos\Desktop\coding projects\ai-clips\myenv\lib\site-packages\clipsai\media\c32206913263444d8ce117fbf2b8cf7a_segment_2.mp4'
+file 'C:\Users\nivos\Desktop\coding projects\ai-clips\myenv\lib\site-packages\clipsai\media\3722e90b24704d0c95fb44123763da93_segment_3.mp4'
